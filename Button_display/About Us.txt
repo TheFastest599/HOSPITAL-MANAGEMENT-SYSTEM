@@ -1,0 +1,13 @@
+HOSPITAL MANAGEMENT SYSTEM
+
+
+
+With the help of this code, especially in these COVID times, 
+patients can easily pre-book appointments or rooms as necessary. 
+Therefore, eliminating the need to visit a hospital physically for an 
+appointment and also the time spent in describing and analysing 
+the patient’s needs upon arrival in a hospital.
+Any external person will be able to view the no. of beds 
+vacant(even in COVID ward) in the hospital, hence they can take 
+decisions of which hospital they should go to without visiting each 
+separately.
